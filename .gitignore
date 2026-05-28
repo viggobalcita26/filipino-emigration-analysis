@@ -1,0 +1,14 @@
+# Ignore files
+*.pbix
+*.pbit
+*.csv
+*.xlsx
+test_utils.py
+test.ipynb
+test.py
+
+# Ignore venv
+__pycache__/
+.venv/
+.env
+
