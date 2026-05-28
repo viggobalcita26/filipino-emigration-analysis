@@ -5,10 +5,10 @@
 *.xlsx
 test_utils.py
 test.ipynb
+test.py
 
 # Ignore venv
 __pycache__/
 .venv/
-venv/
 .env
 
